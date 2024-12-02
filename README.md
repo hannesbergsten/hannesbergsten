@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hannesbergsten
-- 👀 I’m interested in microsercives
-- 🌱 I’m currently learning .net core. react, microservices, CI/CD.
-- 💞️ I’m looking to collaborate on React.
+- 🌱 I’m currently learning .net & DevOps.
 - 📫 How to reach me: vripskt@gmail.com
 
 <!---
